@@ -11,8 +11,8 @@ CFLAGS = -pg -Wall -c -I$(INC)
 
 EXE = $(BIN)/tp1
 
-# run: $(EXE)
-# 	$(EXE) -p arquivo.out
+run: $(EXE)
+	$(EXE) -p arquivo.out
 	
 
 all:$(EXE)
