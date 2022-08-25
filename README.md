@@ -59,26 +59,26 @@ match.
 
 # input example
 
-3 1000
-5 50
-Giovanni 100 6O 3P 10E 11O 1O
-John 200 3P 4E 3E 13C 13O
-Thiago 100 12O 7P 12C 1O 13C
-Gisele 300 12E 10C 11C 9C 13E
-Wagner 50 5P 12P 5E 2E 1P
-2 50
-Wagner 200 2P 13E 9E 12C 2O
-Gisele 350 11P 9P 2E 6E 4P
-3 100
-Thiago 250 1O 4P 1E 3O 8O
-Gisele 100 9C 8C 8C 2C 6C
-Giovanni 150 4P 12P 8E 12E 2P
+3 1000<br />
+5 50<br />
+Giovanni 100 6O 3P 10E 11O 1O<br />
+John 200 3P 4E 3E 13C 13O<br />
+Thiago 100 12O 7P 12C 1O 13C<br />
+Gisele 300 12E 10C 11C 9C 13E<br />
+Wagner 50 5P 12P 5E 2E 1P<br />
+2 50<br />
+Wagner 200 2P 13E 9E 12C 2O<br />
+Gisele 350 11P 9P 2E 6E 4P<br />
+3 100<br />
+Thiago 250 1O 4P 1E 3O 8O<br />
+Gisele 100 9C 8C 8C 2C 6C<br />
+Giovanni 150 4P 12P 8E 12E 2P<br />
 
 # Example Output (referring to example input)
 
-1 1000 S
-Gisele
-1 200 OP
-Wagner
-1 1000 F
-Gisele
+1 1000 S<br />
+Gisele<br />
+1 200 OP<br />
+Wagner<br />
+1 1000 F<br />
+Gisele<br />
