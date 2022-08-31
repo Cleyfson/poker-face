@@ -1,6 +1,6 @@
 # poker-face
 
-project developed in C++, for the discipline of data structures.
+project developed in C++, for the discipline of data structures at UFMG.
 
 The proposed problem was to implement a system that takes care of the decision stage of the round of a poker game. In this system, for a set of players, they should be classified in relation to the cards they have, defining in a round who would be the
 player with the winning hand and therefore the one who would win the bet. In case of a tie, there are criteria to resolve the issue. In addition, it is important to manage the amount of money that each player has during the game.
